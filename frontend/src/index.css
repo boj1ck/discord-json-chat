@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root { color-scheme: dark; }
+
+* { scrollbar-width: thin; scrollbar-color: #2b2d31 transparent; }
+*::-webkit-scrollbar { width: 10px; height: 10px; }
+*::-webkit-scrollbar-thumb { background: #2b2d31; border-radius: 999px; }
+*::-webkit-scrollbar-track { background: transparent; }
+
+::selection { background: rgba(88, 101, 242, .35); }
+html, body, #root, * {
+  font-family: "Poppins" !important;
+}

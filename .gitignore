@@ -1,0 +1,17 @@
+# Node
+node_modules/
+dist/
+.vite/
+
+# Python
+__pycache__/
+.venv/
+env/
+*.pyc
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Runtime data (optional)
+backend/data/*.json
