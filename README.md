@@ -140,5 +140,5 @@ MIT License
 
 ## Author
 
-Built by you  
+Built by SALAH EDDINE EN-NOUAMI  
 Discord-inspired chat application using React, FastAPI, and JSON storage.
